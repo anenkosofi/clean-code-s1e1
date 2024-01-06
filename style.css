@@ -12,11 +12,11 @@ body {
   text-align: right;
 }
 
-.header .header__img {
+.header__img {
   width: 100%;
 }
 
-.header .header__info {
+.header__info {
   font-family: fantasy, cursive;
 }
 
@@ -155,7 +155,7 @@ body {
   width: 226px;
 }
 
-.todo__button-delete .todo__img {
+.todo__img {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
